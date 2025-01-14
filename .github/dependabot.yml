@@ -5,6 +5,6 @@ updates:
     schedule:
       interval: "monthly"
   - package-ecosystem: "nuget"
-    directory: "/code/"
+    directory: "/code/src/AttendeeSite/"
     schedule:
       interval: "weekly"
